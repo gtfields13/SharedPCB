@@ -1,0 +1,2 @@
+This is a breakout PCB for Neutrik M-Series style phone jacks with PCB pins, using a JST-PH header to connect to other boards.
+This design has been verified for component mounting and connections, but has not been optimized to reduce the footprint. 
